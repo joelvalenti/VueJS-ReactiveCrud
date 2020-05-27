@@ -1,4 +1,7 @@
-# Trabajo Practico 2 Vue.js
+# Trabajo Practico 2 de Vue JS
+
+## Universidad Tecnologica Nacional (U.T.N.)
+## Materia: Laboratorio IV.
 
 ## Integrantes
 * Astorga Nicolás,
@@ -7,10 +10,11 @@
 * Valenti Joel
 
 ## Framework y Librerias usadas:
-    VueJs
-    BootstrapVue
-    Font Awesome
-	Axios
+* VueJs
+* BootstrapVue
+* Font Awesome
+* Axios
+* SweetAlert2
 
 ## Ejecutar el siguiente comando para crear el node_module:
     npm install
